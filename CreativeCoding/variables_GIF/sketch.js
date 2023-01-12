@@ -20,7 +20,7 @@ function draw() { //runs in a loop
 //fill ():
 strokeWeight (1);
 
-var num = 15; //variable for the number of squares in the array (30?)
+var num = 15; //variable for the number of squares in the array
 var sideLen = windowWidth / num; //variable for the side length of each square
 
 translate (-100, -100); //translation creates a bleed effect
