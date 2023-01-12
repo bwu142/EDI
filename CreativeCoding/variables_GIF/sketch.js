@@ -8,14 +8,14 @@ function preload (){
 
 function setup() { //runs once
 createCanvas(windowWidth, windowWidth); //creates a canvas 720px by 720px
-background(21, 140, 176); //background color
+
 }
 
 
 
 
 function draw() { //runs in a loop
-
+background(21, 140, 176); //background color
 var num = 15; //variable for the number of squares in the array
 var sideLen = windowWidth / num; //variable for the side length of each square
 
