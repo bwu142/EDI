@@ -1,6 +1,6 @@
 function setup() {//runs once
-createCanvas (720,720);//creates a canvas that is 720 pixels
-background (100,160,160);
+    createCanvas (720,720);//creates a canvas that is 720 pixels
+    background (100,160,160);
 }
 
 function draw() {//runs in a loop
