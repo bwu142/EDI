@@ -9,7 +9,7 @@ function preload (){
 function setup() { //runs once
 
 createCanvas(windowWidth, windowWidth); //creates a canvas 720px by 720px
-background(131, 36, 214); //background color
+background(18, 138, 34); //background color
 }
 
 
@@ -18,7 +18,7 @@ background(131, 36, 214); //background color
 function draw() { //runs in a loop
 
 //fill ():
-//strokeWeight (1);
+strokeWeight (1);
 
 var num = 15; //variable for the number of squares in the array (30?)
 var sideLen = windowWidth / num; //variable for the side length of each square
