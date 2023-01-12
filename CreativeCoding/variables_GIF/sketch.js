@@ -1,5 +1,3 @@
-//Create a program that enables us to customize the number of squares in a grid
-
 let gif;
 
 function preload (){
@@ -9,16 +7,16 @@ function preload (){
 
 
 function setup() { //runs once
-  createCanvas(windowWidth, windowWidth);
-  fill(250,223,242);
-  strokeWeight(1);
+
+createCanvas(windowWidth, windowWidth); //creates a canvas 720px by 720px
+background(50, 145, 168); //background color
 }
-  createCanvas(windowWidth, windowWidth); //creates a canvas 720px by 720px
+
 
 
 
 function draw() { //runs in a loop
-background(50, 145, 168); //background color
+
 //fill ():
 //strokeWeight (1);
 
