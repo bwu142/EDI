@@ -13,7 +13,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: blue;
+  color: green;
 }
 
 /* mouse over link */
@@ -24,6 +24,8 @@ a:hover {
 /* selected link */
 a:active {
   color: yellow;
+
+}
 
 canvas {
   display: block;
