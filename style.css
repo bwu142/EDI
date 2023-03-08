@@ -1,3 +1,4 @@
+
 html, body {
   margin: 0;
   padding: 0;
@@ -15,15 +16,12 @@ img {
 }
 
 h1{
-/*  #color: black; */
-color: white;
-text-shadow: 2px 2px 4px #000000;
+  color: black;
      position: absolute;
      left: 50%;
      transform: translateX(-50%) translateY(-50%);
      text-align: center;
      top: 0%;
-
 }
 
 p{
@@ -71,3 +69,5 @@ td {
   top: 0px;
   z-index: 1;
 }
+style.css
+Displaying style.css.
