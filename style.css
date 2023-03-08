@@ -6,6 +6,25 @@ html, body {
   background-color: rgb(255, 255, 255);
 }
 
+/* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+
 canvas {
   display: block;
   z-index: -1;
