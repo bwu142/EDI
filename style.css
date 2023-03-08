@@ -16,14 +16,15 @@ img {
 
 h1{
 /*  #color: black; */
+color: white;
+text-shadow: 2px 2px 4px #000000;
      position: absolute;
      left: 50%;
      transform: translateX(-50%) translateY(-50%);
      text-align: center;
      top: 0%;
 
-     color: white;
-     text-shadow: 2px 2px 4px #000000;
+
 
 }
 
